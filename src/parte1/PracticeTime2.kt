@@ -1,4 +1,4 @@
-
+package parte1
 fun main() {
     val numbers = intArrayOf(11, 12, 13, 14, 15)
     val stringList = mutableListOf<String>()

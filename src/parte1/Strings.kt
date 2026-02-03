@@ -1,3 +1,5 @@
+package parte1
+
 fun main() {
     val trout = "trout"
     var haddock = "haddock"

@@ -1,4 +1,4 @@
-
+package parte1
 fun main(args: Array<String>) {
     println(moreFishyONe(10.0, listOf(3, 3, 3)))                 // false
     println(moreFishyONe(8.0, listOf(2, 2, 2), hasDecorations = false)) // true

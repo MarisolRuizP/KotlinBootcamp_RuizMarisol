@@ -1,4 +1,5 @@
-import java.lang.reflect.Array
+package parte1
+
 import kotlin.math.pow
 
 fun main() {

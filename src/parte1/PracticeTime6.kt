@@ -1,3 +1,5 @@
+package parte1
+
 fun main(args: Array<String>) {
     print("How are you feeling today? ")
     val mood = readLine()!!

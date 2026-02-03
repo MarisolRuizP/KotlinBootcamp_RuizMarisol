@@ -1,3 +1,5 @@
+package parte1
+
 fun main(args: Array<String>) {
     val rollDice1 = { (1..12).random() }
     println(rollDice1)
